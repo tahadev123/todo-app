@@ -1,3 +1,4 @@
 {
-  "port": 3000
+  "app":"todo-application"
+  "port":3000
 }
